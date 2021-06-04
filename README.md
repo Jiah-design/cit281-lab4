@@ -5,7 +5,7 @@
 - Run and debug to fix MIME error, test, and commit
 - Create a route with query parameters, test, and commit
 
-![Screenshot](server-code.png)
-[file for the server-code](lab-04.js)
+![Screenshot](server-code.png)  
+[file for the server-code](https://github.com/Jiah-design/cit281-lab4/blob/main/lab-04.js)
 
 
